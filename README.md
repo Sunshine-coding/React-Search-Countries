@@ -13,3 +13,6 @@ Then, it's time to try 'state' in react!
   (And pass the state and data from App components to child components)
 * Display the data (with/without conditions) with JSX, when they are rendered
 * Import data and functions 
+
+## 3. Demo
+https://searchcountries.netlify.com
